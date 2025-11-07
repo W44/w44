@@ -22,6 +22,20 @@ Major: Software Engineering | Minor: Cyber Security
 - Built with **React** (frontend) and **Java Spring** (backend).  
 - Implemented CRUD operations and backend integration for user requests.  
 
+### **Smart CRM**
+![Smart CRM Demo](SmartCRM.gif)
+
+> A smart customer relationship management tool designed to enhance business communication through automation and intelligence.  
+- Features **image text extraction**, **smart email generation**, **context summarization**, and **email sending activity tracking**.  
+- Built with **React (frontend)** and **Spring Boot (backend)**.  
+- Upcoming features: **bulk emailing** and advanced analytics.  
+
+**Repository Links:**  
+- [Backend (Spring Boot)](https://github.com/W44/CRM_BE)  
+- [Frontend (React)](https://github.com/W44/CRM_FE)  
+
+
+
 Explore more projects: [My Portfolio →](https://w44.github.io/portfolio-ui/)
 
 ---
